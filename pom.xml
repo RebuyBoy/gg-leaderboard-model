@@ -14,7 +14,7 @@
         gg-leaderboard-model
     </artifactId>
     <version>
-        1.0-SNAPSHOT
+        0.0.1
     </version>
 
     <properties>
